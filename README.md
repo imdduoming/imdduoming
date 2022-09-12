@@ -3,9 +3,12 @@
 
 <div align="center">
     
-## 👩🏻‍💻 Junior Backend Developer 👩🏻‍💻
+## 👩🏻‍💻 Junior Backend Developer 👩🏻‍💻 
     
     Hi there! I'm student of Hongik Univ.  
+    I'm interested in Cloud , Server !
+    I enjoy developing new services and fixing issues.
+    I love learning new things 😆
     
 <br/>
     
