@@ -19,14 +19,15 @@
 <img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=npm&logoColor=white"/><img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD .svg?&style=for-the-badge&logo=JQuery&logoColor=white"/> 
  <img alt="Create React App" src ="https://img.shields.io/badge/Create React App-09D3AC.svg?&style=for-the-badge&logo=Create React App&logoColor=white"/>
 <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<br/><img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
-###  AWS Service 
+
+###  DevOps
 <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=for-the-badge&logo=Amazon S3&logoColor=white"/>
 <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-569A31.svg?&style=for-the-badge&logo=Amazon RDS&logoColor=white"/>
 <img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
 <img alt="Amazon ECS" src ="https://img.shields.io/badge/Amazon ECS-FF9900.svg?&style=for-the-badge&logo=Amazon ECS&logoColor=white"/>
+<br/><img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
 <br/>
 
   
